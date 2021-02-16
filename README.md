@@ -2,5 +2,10 @@
 
 
 Portafolio personal como desarrollador 💻
-Online view 
-pablotz.com
+## Online view 
+http://pablotz.com/
+
+### Creado en:
+ * CSS
+ * HTML
+ * NORMALIZE.CSS
